@@ -1,1 +1,11 @@
 # esproject
+
+## Features:
+- [x] Setup Enviroment.
+- [x] ES2015,ES2017.
+- [x] Nodemon
+
+## Installation
+1. Clone the Repo.
+2. Go into the folder and hit the npm install command
+3. Run the command: npm start
