@@ -16,6 +16,14 @@
 |--views
 |--index.js
 
+
+
+## Installation
+1. Clone the Repo.
+2. Go into the folder and hit the npm install command
+3. Run the command: npm start
+
+
 .
 +-- _config.yml
 +-- _drafts
@@ -34,8 +42,3 @@
 |   +-- members.yml
 +-- _site
 +-- index.html
-
-## Installation
-1. Clone the Repo.
-2. Go into the folder and hit the npm install command
-3. Run the command: npm start
