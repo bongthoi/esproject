@@ -5,25 +5,16 @@
 - [x] ES2015,ES2017.
 
 ## Structure's Project:
---\root
-      |
-      \configs
-             |
-             \server_config.json   
-      \public
-      \src
-         |
-         \models
-         \repositories
-         \services
-         \controllers
-                    |
-                    \index.js
-         \utilities
-      \views
-           |
-           \index.ejs
-      \index.js
+|--configs
+|--public
+|--src
+   |--controllers
+   |--models
+   |--repositories
+   |--services
+   |--utilites
+|--views
+|--index.js
         
 ## Installation
 1. Clone the Repo.
