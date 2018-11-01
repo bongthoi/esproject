@@ -1,4 +1,3 @@
-...bash
 # esproject
 
 ## Features:
@@ -6,7 +5,7 @@
 - [x] ES2015,ES2017.
 
 ## Structure's Project:
-
+```bash
 .
 |--configs
 |--public
@@ -18,7 +17,7 @@
    |--utilites
 |--views
 |--index.js
-
+```
 
 
 ## Installation
@@ -26,4 +25,4 @@
 2. Go into the folder and hit the npm install command
 3. Run the command: npm start
 
-...
+
